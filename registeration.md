@@ -9,4 +9,4 @@
 
 ## Password:
 
-## skill (short detailed)
+## skill (short detailed):
